@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://1000logos.net/wp-content/uploads/2017/11/Michigan-Wolverines-Logo.png" width="220">
-</p>
+
+![the-university-of-michigan-medallion_1709746398](https://github.com/user-attachments/assets/c0d352b0-481e-43ff-b921-97ffb2b8753b)
 
 Hi, I'm Shorna 👋
 
