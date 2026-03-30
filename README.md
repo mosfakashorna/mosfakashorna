@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/79/University_of_Michigan_seal.svg" width="180"/>
+  <img src="assets/umseal.svg" width="200">
 </p>
 
 ## Hi, I'm Shorna 👋
