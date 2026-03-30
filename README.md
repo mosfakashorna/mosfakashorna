@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0d352b0-481e-43ff-b921-97ffb2b8753b" width="180"/>
+</p>
 
-![the-university-of-michigan-medallion_1709746398](https://github.com/user-attachments/assets/c0d352b0-481e-43ff-b921-97ffb2b8753b)
-
+<br>
 Hi, I'm Shorna 👋
 
 Computer Science @ University of Michigan (Incoming Transfer)
