@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/umseal.svg" width="200">
+  <img src="https://1000logos.net/wp-content/uploads/2017/11/Michigan-Wolverines-Logo.png" width="220">
 </p>
 
 Hi, I'm Shorna 👋
