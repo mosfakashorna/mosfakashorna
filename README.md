@@ -11,8 +11,8 @@ Interested in: Cloud Computing, Automation, and Software Engineering
 ##### Some of my favorite projects:
 ###### 📁 Smart File Organizer  
 → [Code](https://github.com/mosfakashorna/smart-file-organizer)  
-###### 📒 Python Contact Manager CLI  
-→ [Code](https://github.com/mosfakashorna/Python-Contact-Manager-CLI)  
+###### 📒 Contact Manager V2  
+→ [Code](https://github.com/mosfakashorna/contact_manager_v2)  
 ###### 📊 Personal Expenses Tracker  
 → [Code](https://github.com/mosfakashorna/Personal-Expenses-Tracker)  
 ###### ✅ Smart To-Do List  
